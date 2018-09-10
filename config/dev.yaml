@@ -1,0 +1,9 @@
+---
+db:
+  host: "mydb.com"
+  port: 3306
+system_settings:
+  debug: true
+  autoreload: true
+  serve_traceback: true
+
